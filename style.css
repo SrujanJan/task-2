@@ -1,0 +1,120 @@
+.body {
+  /* background-attachment: ; */
+  background-color: #f4d0b3;
+  font-size: large;
+}
+.img-left {
+  border-radius: 50%;
+/* padding-right: 18%; */
+margin-right: 60px;
+}
+
+h1 {
+  /* text-align: center; */
+  margin-left: 70px;
+  font-weight: 300;
+  font-size: 60px;
+}
+.nbm {
+  margin-left: 70px;
+}
+
+.x{
+    overflow: auto;
+
+}
+thead{
+    text-align: center;
+    background-color: #7D8F69;
+    color: white;
+    height: 60px;
+}
+.Academic_details{
+    font-weight: 300;
+    font-size: 60px;
+    margin-left: 0%;
+}
+/* .tab{
+    border: 3px solid black;
+} */
+ul{
+    margin-left: 25px;
+}
+#About{
+    padding-top: 55px;
+}
+#Academicdetails{
+    padding-top: 55px;
+    margin-left: 70px;
+}
+#techskills{
+    padding-top: 55px;
+    margin-left: 70px;
+}
+#Project{
+    padding-top: 55px;
+    margin-left: 70px;
+}
+
+#footer{
+    padding-top: 75px;
+    text-align: center;
+  }
+  .social-class{
+    padding: 20px 10px;
+  }
+  @media (max-width:600px){
+    .img-left{
+        position: relative;
+        /* float: left;
+         */
+         text-align: center;
+    }
+  }
+/* .t{ */
+/* background-color: aquamarine; */
+/* border: 2.4px solid;
+    width: 1000px;
+    height: 136px;
+    border-collapse: collapse; */
+
+/* }  */
+/* .x{
+    overflow: auto;
+
+}
+/* .h{
+    background-color: #61764B;
+    border-collapse: collapse;
+
+} */
+/* .r{
+ color: white;   
+ border-collapse: collapse;
+
+} */
+/* .gk{
+height: 44px;
+border-collapse: collapse;
+} */
+
+/* .r1
+{
+    border-collapse: collapse;
+
+
+} */
+/* .responsive{
+    overflow: auto;
+} */
+/* table{
+    border:1px solid black;
+}
+td,th{
+    border:1px solid;
+    padding:0.75rem;
+    text-align: center;
+}
+th{
+    background-color: rgb(99, 134, 48);
+} */
